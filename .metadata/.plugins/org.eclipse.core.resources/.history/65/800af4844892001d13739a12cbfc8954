@@ -1,0 +1,6 @@
+package com.example.app.payloads;
+
+public class CommentDto {
+	private int commentId;
+	private String commentContent;
+}

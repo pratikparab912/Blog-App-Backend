@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=blog-app/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.app.services{UserService.java[UserService" modifiers="513" timestamp="1672901348230"/>
+    <typeInfo handle="=blog-app/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.app.services{CategoryService.java[CategoryService" modifiers="513" timestamp="1672986006148"/>
+    <typeInfo handle="=blog-app/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.app.services{PostService.java[PostService" modifiers="513" timestamp="1673068962075"/>
+    <typeInfo handle="=blog-app/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.app.services{CommentService.java[CommentService" modifiers="513" timestamp="1673507833603"/>
+</typeInfoHistroy>
